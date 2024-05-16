@@ -1,6 +1,6 @@
 # Entity-Deduction Arena (EDA) 
 
-This software project accompanies the research paper, [Probing the Multi-turn Planning Capabilities of LLMs via 20 Question Games](https://arxiv.org/abs/2310.01468).
+This software project accompanies the research paper, [Probing the Multi-turn Planning Capabilities of LLMs via 20 Question Games](https://arxiv.org/abs/2310.01468), presented in ACL 2024 main conference. 
 
 # Motivation
 
