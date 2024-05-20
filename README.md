@@ -17,17 +17,7 @@ This software project accompanies the research paper, [Probing the Multi-turn Pl
 - Through systematic evaluations, we analyze diverse LLMs and uncover noteworthy disparities in their performance on this particular task.
 
 <div align="center">
-
-| Model        |    #Turns (↓)   | Success (↑) |    #Yes     | Score (↑) |
-|--------------|:------------------:|:---------:|:-------------:|:--------:|
-| GPT-4-0613        | **16.9±0.2**       | **0.49±0.06** | 6.0±0.2    | **0.40±0.05** |
-| GPT-3.5-turbo-0613      | 18.4±0.3            | 0.25±0.04  | 7.1±0.4    | 0.21±0.04 |
-| Claude-2     | 17.6±0.3            | 0.29±0.05  | 4.5±0.3    | 0.25±0.04 |
-| Claude-1     | 18.7±0.1            | 0.15±0.02  | 4.3±0.2    | 0.13±0.02 |
-| Vicuna 13B (v1.3)  | 18.7±0.2            | 0.20±0.03  | 5.2±0.3    | 0.17±0.02 |
-| Vicuna 7B (v1.3)   | 19.1±0.4            | 0.11±0.06  | 5.7±0.6    | 0.10±0.05 |
-
-
+    
 ### Things
 
 | Model        |    #Turns (↓)   | Success (↑) |    #Yes     | Score (↑) |
