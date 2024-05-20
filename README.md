@@ -27,6 +27,32 @@ This software project accompanies the research paper, [Probing the Multi-turn Pl
 | Vicuna 13B (v1.3)  | 18.7±0.2            | 0.20±0.03  | 5.2±0.3    | 0.17±0.02 |
 | Vicuna 7B (v1.3)   | 19.1±0.4            | 0.11±0.06  | 5.7±0.6    | 0.10±0.05 |
 
+
+### Things
+
+| Model        |    #Turns (↓)   | Success (↑) |    #Yes     | Score (↑) |
+|--------------|:------------------:|:---------:|:-------------:|:--------:|
+| GPT-4-0613        | **17.8±0.2**      | **0.31±0.03** | 5.9±0.1    | **0.26±0.02** |
+| GPT-3.5-turbo-0613      | 18.2±0.2      | 0.28±0.02 | 6.3±0.1    | 0.23±0.02 |
+| Claude-2     | 18.4±0.3      | 0.21±0.03 | 5.0±0.1    | 0.18±0.03 |
+| Claude-1     | 18.8±0.1      | 0.16±0.02 | 4.2±0.1    | 0.13±0.02 |
+| [Vicuna 13B (v1.3)](https://huggingface.co/lmsys/vicuna-13b-v1.3)  | 18.4±0.1      | 0.18±0.02 | 5.0±0.2    | 0.15±0.02 |
+| [Vicuna 7B (v1.3)](https://huggingface.co/lmsys/vicuna-7b-v1.3)   | 19.5±0.2      | 0.09±0.02 | 5.7±0.2    | 0.07±0.02 |
+| [Mistral 7B Inst v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)   | 18.9±0.1      | 0.13±0.02 | 3.8±0.5    | 0.11±0.02 |
+
+### Celebrities
+
+| Model        |    #Turns (↓)   | Success (↑) |    #Yes     | Score (↑) |
+|--------------|:------------------:|:---------:|:-------------:|:--------:|
+| GPT-4-0613       | **17.3±0.1**      | **0.50±0.02** | 6.8±0.2    | **0.40±0.02** |
+| GPT-3.5-turbo-0613      | 18.8±0.2      | 0.27±0.03 | 7.4±0.2    | 0.21±0.03 |
+| Claude-2     | 17.6±0.2      | 0.31±0.02 | 5.6±0.1    | 0.26±0.02 |
+| Claude-1     | 17.7±0.2      | 0.29±0.03 | 5.3±0.2    | 0.25±0.02 |
+| [Vicuna 13B (v1.3)](https://huggingface.co/lmsys/vicuna-13b-v1.3)    | 18.7±0.2      | 0.22±0.03 | 6.1±0.1    | 0.18±0.02 |
+| [Vicuna 7B (v1.3)](https://huggingface.co/lmsys/vicuna-7b-v1.3)    | 19.6±0.3      | 0.06±0.02 | 5.9±0.2    | 0.05±0.02 |
+| [Mistral 7B Inst v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)   | 18.2±0.1      | 0.22±0.04 | 4.3±0.1    | 0.20±0.03 |
+
+
 </div>
 
 
