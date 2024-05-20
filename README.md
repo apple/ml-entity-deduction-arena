@@ -97,11 +97,11 @@ Coming soon.
 ## Citation
 Please consider citing our work if it is helpful to your research.
 ```
-@article{zhang2023entity,
-  title={The Entity-Deduction Arena: A playground for probing the conversational reasoning and planning capabilities of LLMs},
+@inproceedings{zhang2023entity,
+  title={Probing the Multi-turn Planning Capabilities of LLMs via 20 Question Games},
   author={Zhang, Yizhe and Lu, Jiarui and Jaitly, Navdeep},
-  journal={arXiv preprint arXiv:2310.01468},
-  year={2023}
+  journal={ACL},
+  year={2024}
 }
 ```
 
