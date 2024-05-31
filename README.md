@@ -11,6 +11,12 @@ This software project accompanies the research paper, [Probing the Multi-turn Pl
 <img src="imgs/dialog.png" width="35%" alt="" align=center />
 </p>
 
+# Run the experiments in [OpenDevin](https://github.com/OpenDevin/OpenDevin/tree/main)
+
+Following the instruction [here](https://github.com/OpenDevin/OpenDevin/tree/main/evaluation/EDA).
+
+
+
 # Highlights
 
 - The **Entity-Deduction Arena (EDA)** is a surrogate problem that gauges an LLM's aptitude to deduce an entity by posing a series of queries to the judge. 
